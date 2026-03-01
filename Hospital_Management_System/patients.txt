@@ -1,0 +1,2 @@
+P001|Ahmed Hassan|30|Male|Flu
+P002|Mona Ali|25|Female|Diabetes
