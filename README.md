@@ -2,7 +2,7 @@
 
 A simple Hospital Management System implemented in Python using Object-Oriented Programming (OOP).
 
-## Features
+## 📌 Features
 - Manage patients
 - Manage doctors
 - Manage appointments
